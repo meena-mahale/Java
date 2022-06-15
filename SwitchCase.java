@@ -1,8 +1,10 @@
 public class SwitchCase 
 {
-  public static void main(String[] args) {
+  public static void main(String[] args) 
+  {
     int day = 4;
-    switch (day) {
+    switch (day) 
+	{
       case 1:
         System.out.println("Monday");
         break;
